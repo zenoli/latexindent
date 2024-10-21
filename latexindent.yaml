@@ -1,1 +1,4 @@
-defaultIndent: "    "
+defaultIndent: "  "
+modifyLineBreaks:
+    textWrapOptions:
+        columns: 100 
